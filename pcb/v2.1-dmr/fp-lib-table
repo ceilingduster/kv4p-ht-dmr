@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "kv4p-ht")(type "KiCad")(uri "${KIPRJMOD}/kv4p-ht.pretty")(options "")(descr ""))
+  (lib (name "DMR818S")(type "KiCad")(uri "${KIPRJMOD}/kv4p-ht.pretty/DMR818S.pretty")(options "")(descr ""))
+)
