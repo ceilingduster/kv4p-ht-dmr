@@ -7,3 +7,6 @@ This product includes modifications. The full source code (including the modific
 https://github.com/VanceVagell/kv4p-ht
 
 Please see the main project site: https://kv4p.com.  Thank you Vance for an incredible project!  This MOD is only meant to serve to innovate and support the greater project.
+
+![PCB Board with DMR818S-5W module](pcb/v2.1-dmr/board-3d-view.png)
+
